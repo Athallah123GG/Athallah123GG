@@ -1,5 +1,5 @@
 
-<H1>mulai Aktif = tanggal 19 Oktober 2024 <H1/>
+<H1>19<H1/>
   tes
 <!--   <p>oe oe oe</p> -->
 <!---
